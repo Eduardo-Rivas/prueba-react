@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h3>Soy Eduardo</h3>
+        <h3>Soy Eduardo Rivas</h3>
         <img src={logo} className="App-logo" alt="logo" />
-        <h3>This my Application React</h3>
+        <h3>Esta es mi Aplicación</h3>
         <a
           className="App-link"
           href="https://reactjs.org"
